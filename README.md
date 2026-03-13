@@ -27,7 +27,7 @@ python train_pith.py \
     -n -v 50 --ln --amp -m 1 \
     --name pith-imagenet \
     -d imagenet --data_dir /data/imagenet \
-    --batch_size 512 --hid 128 --lora_r 128 --layers 5 --heads 16 \
+    --batch_size 512 --hid 128 --lora_r 90 --layers 5 --heads 16 \
     --opt adamw --lr 0.3e-3 --wd 1e-2 --scheduler cosine-warmup \
     --debug 0 --max_shape 4096 --lora --use_teacher
 ```
