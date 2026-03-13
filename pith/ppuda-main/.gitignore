@@ -1,0 +1,10 @@
+cifar-10-*
+.idea/
+*.tar
+*.tar.gz
+*.hdf5
+*.h5
+.ipynb_checkpoints/
+pip-wheel-metadata/
+__pycache__/
+*egg-info/
