@@ -3,7 +3,7 @@
 
 ## Introduction
 
-We propose **Parameter InheriTance HyperNetwork (PITH)**, which introduces a novel parameter projection mechanism to directly inherit parameters from pre-trained models for initializing target networks of varying configurations. Our method enables initialized networks to directly achieve competitive performance on downstream tasks without any further training, which we term **zero-shot initialization**.
+We propose **Parameter InheriTance HyperNetwork (PITH)**, which introduces a novel parameter projection mechanism to directly inherit parameters from pre-trained models for initializing target networks of varying configurations. 
 
 ## Requirements
 
